@@ -1,0 +1,9 @@
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:14:23:21 +0300] "GET /corrosion-webapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:14:23:21 +0300] "GET /corrosion-webapp/ HTTP/1.1" 200 1451 http-bio-8080-exec-3 670
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:14:23:22 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:14:23:30 +0300] "GET /corrosion-webapp/mydistance?distance=100&distIn=km&convert=mi HTTP/1.1" 200 40 http-bio-8080-exec-6 5
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:14:25:40 +0300] "GET /corrosion-webapp/mydistance?distance=100&distIn=km&convert=mi HTTP/1.1" 200 40 http-bio-8080-exec-1 35
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:14:25:41 +0300] "GET /corrosion-webapp/mydistance?distance=100&distIn=m&convert=mi HTTP/1.1" 200 42 http-bio-8080-exec-2 3
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:22:36:51 +0300] "GET /corrosion-webapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:22:36:51 +0300] "GET /corrosion-webapp/ HTTP/1.1" 200 1451 http-bio-8080-exec-3 45
+0:0:0:0:0:0:0:1 - - [24/Jun/2018:22:36:56 +0300] "GET /corrosion-webapp/mydistance?distance=5&distIn=km&convert=mi HTTP/1.1" 200 52 http-bio-8080-exec-5 8

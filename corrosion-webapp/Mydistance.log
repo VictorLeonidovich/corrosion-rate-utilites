@@ -1,0 +1,39 @@
+[http-bio-8080-exec-6] DEBUG DistanceServlet  - Request Parameters ==>Distance-100.0km Conversion Unit- mi
+[http-bio-8080-exec-1] DEBUG DistanceServlet  - Request Parameters ==>Distance-100.0km Conversion Unit- mi
+[http-bio-8080-exec-2] DEBUG DistanceServlet  - Request Parameters ==>Distance-100.0m Conversion Unit- mi
+[http-bio-8080-exec-5] DEBUG DistanceServlet  - Request Parameters ==>Distance-5.0km Conversion Unit- mi
+[http-bio-8080-exec-10] DEBUG DistanceServlet  - Request Parameters ==>Distance-23.0km Conversion Unit- mi
+[http-bio-8080-exec-10] DEBUG DistanceServlet  - Request Parameters ==>Distance-23.0m Conversion Unit- yd
+[http-bio-8080-exec-10] DEBUG DistanceServlet  - Request Parameters ==>Distance-23.0km Conversion Unit- yd
+[http-bio-8080-exec-10] DEBUG DistanceServlet  - Request Parameters ==>Distance-23.0m Conversion Unit- yd
+[http-bio-8080-exec-10] DEBUG DistanceServlet  - Request Parameters ==>Distance-23.0m Conversion Unit- mi
+[http-bio-8080-exec-7] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-34.0null Conversion Unit- null
+[http-bio-8080-exec-1] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-34.0null Conversion Unit- null
+[http-bio-8080-exec-2] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-34.0null Conversion Unit- null
+[http-bio-8080-exec-3] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-56.0null Conversion Unit- null
+[http-bio-8080-exec-8] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-56.0null Conversion Unit- null
+[http-bio-8080-exec-1] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-5.0null Conversion Unit- null
+[http-bio-8080-exec-2] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-5.0null Conversion Unit- null
+[http-bio-8080-exec-6] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-5.0null Conversion Unit- null
+[http-bio-8080-exec-4] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-10.0null Conversion Unit- null
+[http-bio-8080-exec-5] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-10.0null Conversion Unit- null
+[http-bio-8080-exec-6] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-10.0null Conversion Unit- null
+[http-bio-8080-exec-7] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-11.0null Conversion Unit- null
+[http-bio-8080-exec-8] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-12.0null Conversion Unit- null
+[http-bio-8080-exec-9] DEBUG CorrosionRateServlet  - Request Parameters ==>Distance-13.0null Conversion Unit- null
+[http-bio-8080-exec-3] DEBUG CorrosionRateServlet  - Enumeration: corrosionratevalue
+[http-bio-8080-exec-3] DEBUG CorrosionRateServlet  - Enumeration: convertto
+[http-bio-8080-exec-3] DEBUG CorrosionRateServlet  - Enumeration: dimensionin
+[http-bio-8080-exec-3] DEBUG CorrosionRateServlet  - java.util.Collections$3@bfc9a4Request Parameters ==>Distance-1.0mpy Conversion Unit- mmyear
+[http-bio-8080-exec-5] DEBUG CorrosionRateServlet  - Enumeration: corrosionratevalue
+[http-bio-8080-exec-5] DEBUG CorrosionRateServlet  - Enumeration: convertto
+[http-bio-8080-exec-5] DEBUG CorrosionRateServlet  - Enumeration: dimensionin
+[http-bio-8080-exec-5] DEBUG CorrosionRateServlet  - java.util.Collections$3@14b3394Request Parameters ==>Distance-5.0mpy Conversion Unit- mmyear
+[http-bio-8080-exec-6] DEBUG CorrosionRateServlet  - Enumeration: corrosionratevalue
+[http-bio-8080-exec-6] DEBUG CorrosionRateServlet  - Enumeration: convertto
+[http-bio-8080-exec-6] DEBUG CorrosionRateServlet  - Enumeration: dimensionin
+[http-bio-8080-exec-6] DEBUG CorrosionRateServlet  - java.util.Collections$3@16c5d4aRequest Parameters ==>Distance-5.0mpy Conversion Unit- mmyear
+[http-bio-8080-exec-1] DEBUG CorrosionRateServlet  - Enumeration: corrosionratevalue
+[http-bio-8080-exec-1] DEBUG CorrosionRateServlet  - Enumeration: convertto
+[http-bio-8080-exec-1] DEBUG CorrosionRateServlet  - Enumeration: dimensionin
+[http-bio-8080-exec-1] DEBUG CorrosionRateServlet  - java.util.Collections$3@7d6378Request Parameters ==>Distance-10.0mpy Conversion Unit- mmyear

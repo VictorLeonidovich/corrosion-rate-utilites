@@ -1,0 +1,1 @@
+web: java $JAVA_OPTS -jar corrosion-webapp/target/dependency/webapp-runner.jar --port $PORT corrosion-webapp/target/*.war

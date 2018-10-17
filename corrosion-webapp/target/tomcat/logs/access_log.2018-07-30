@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:22:07:10 +0300] "GET /corrosion-webapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:22:07:11 +0300] "GET /corrosion-webapp/ HTTP/1.1" 200 9519 http-bio-8080-exec-3 763
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:22:07:11 +0300] "GET /corrosion-webapp/css/style.css HTTP/1.1" 200 3681 http-bio-8080-exec-4 23
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:22:07:11 +0300] "GET /corrosion-webapp/images/sample.png HTTP/1.1" 200 32127 http-bio-8080-exec-2 23
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:22:07:11 +0300] "GET /corrosion-webapp/js/index.js HTTP/1.1" 200 869 http-bio-8080-exec-6 16
+0:0:0:0:0:0:0:1 - - [30/Jul/2018:22:07:12 +0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-7 0
